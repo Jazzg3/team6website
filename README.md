@@ -1,5 +1,5 @@
-
 ### Team members: Bao Thy Nguyen, Garno Amirian, Aidan Garamendi 
+![logo](/images/logo.png)
 
 ## Why "Aidan" is the Superior Spelling for the Name
 
