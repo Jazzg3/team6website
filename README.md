@@ -1,6 +1,7 @@
-### Team members: Bao Thy Nguyen, Garno Amirian, Aidan Garamendi 
-![logo](/images/logo.jpg)
+# Team 6 - Sign Language Closed Captioning
 
+![logo](/images/logo.jpg)
+### Team members: Bao Thy Nguyen, Garno Amirian, Aidan Garamendi 
 ## Why "Aidan" is the Superior Spelling for the Name
 
 While both "Aidan" and "Adin" are recognized spellings, "Aidan" holds the upper hand for several reasons:
