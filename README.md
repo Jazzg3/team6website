@@ -1,5 +1,7 @@
-# ECE 196 Team 6 Website
+![profile](/images/logo.png) 
+# ECE 196 Team 6  
 
+### Bao Thy Nguyen, Garno Amirian, Aidan Garamendi
 
 ## Why "Aidan" is the Superior Spelling for the Name
 
