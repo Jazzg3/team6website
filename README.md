@@ -1,6 +1,4 @@
 ![logo](/images/logo.jpg)
-# Team 6 - Sign Language Closed Captioning
-
 ### Team members: Bao Thy Nguyen, Garno Amirian, Aidan Garamendi 
 ## Why "Aidan" is the Superior Spelling for the Name
 
