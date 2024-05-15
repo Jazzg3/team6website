@@ -10,20 +10,20 @@ body text
 
 ## The Team
 
-### Member #1 Name
+### Bao Thy Nguyen
 brief bio
 (insert profile pic)
 
-### Member #2 Name
+### Garno Amirian
 brief bio
 (insert profile pic)
 
-### Member #3 Name
+### Aidan Garamendi
 brief bio
-(insert profile pic)
+![logo](/images/schematic2.png)
 
 ## Video Demo 
-(embed Video)
+[![Presentation Video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## Slide Deck
 (embed slide deck)
