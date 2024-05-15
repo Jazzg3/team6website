@@ -4,6 +4,9 @@
 
 body text
 (insert favorite photos collage)
+![logo](/images/schematic1.jpg)
+![logo](/images/schematic2.jpg)
+
 
 ## The Team
 
