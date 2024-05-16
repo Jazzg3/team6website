@@ -8,7 +8,8 @@ Our proposed solution is to create a video input device that will detect movemen
 
 (insert favorite photos collage)
 
-![logo](/images/schematic1.png =150x) ![logo](/images/schematic2.png =150x)
+![logo](/images/schematic1.png) 
+![logo](/images/schematic2.png)
 
 
 ## The Team
