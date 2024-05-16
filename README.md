@@ -7,6 +7,7 @@ The problem we’ve chosen is the lack of effective communication methods for de
 Our proposed solution is to create a video input device that will detect movements and use a machine learning algorithm to assign those to classes that represent words or letters in the american sign language alphabet. This would then be wirelessly transmitted and displayed on a wearable device to allow others to understand what the individual is signing.
 
 (insert favorite photos collage)
+
 ![logo](/images/schematic1.png =150x) ![logo](/images/schematic2.png =150x)
 
 
