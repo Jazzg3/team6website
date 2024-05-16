@@ -12,15 +12,18 @@ body text
 
 ### Bao Thy Nguyen
 brief bio
+
 ![logo](/images/blank.jpg)
 
 ### Garno Amirian
 brief bio
+
 ![logo](/images/blank.jpg)
 
 ### Aidan Garamendi
 brief bio
-![logo](/images/aidan_pic.png)
+
+![logo](/images/blank.jpg)
 
 ## Video Demo 
 [![Presentation Video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
