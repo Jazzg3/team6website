@@ -1,6 +1,6 @@
 ![logo](/images/logo.jpg)
 ### Team members: Bao Thy Nguyen, Garno Amirian, Aidan Garamendi 
-## Project Description
+# Project Description
 
 The problem we’ve chosen is the lack of effective communication methods for deaf/mute individuals to easily interact with those who are unfamiliar with sign language without the aid of an interpreter, which creates distance between these communities.
 
@@ -12,34 +12,34 @@ Our proposed solution is to create a video input device that will detect movemen
 ![logo](/images/schematic2.png)
 
 
-## The Team
+# The Team
 
 ### Bao Thy Nguyen
 
 ![logo](/images/blank.jpg)
 
-brief bio
+Bao Thy is a Computer Engineering Senior without experience in both industrial level power engineering at IEM Power Systems and small scale robotics electronics with Yonder Deep Robotics on campus
 
 ### Garno Amirian
 
 ![logo](/images/blank.jpg)
 
-brief bio
+Garno is an Eletrical Engineering Senior with a Circuit Engineering depth, without experience in both industrial level power engineering at IEM Power Systems and small scale robotics electronics with Yonder Deep Robotics on campus
 
 ### Aidan Garamendi
 
 ![logo](/images/blank.jpg)
 
-Aidan is a Senior Eletrical Engineering major with a Power Engineering depth, with experience in both industrial level power engineering at IEM Power Systems and small scale robotics electronics with Yonder Deep Robotics on campus
+Aidan is an Eletrical Engineering Senior with a Power Engineering depth, with experience in both industrial level power engineering at IEM Power Systems and small scale robotics electronics with Yonder Deep Robotics on campus
 
 
-## Video Demo 
+# Video Demo 
 [![Presentation Video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-## Slide Deck
+# Slide Deck
 [Google Slideshow](https://docs.google.com/presentation/d/1VO9xiTrAwZHm3HV66OTTplPPoqh0uB_zesGNIXyZNLo/edit)
 
-## Bibliography
+# Bibliography
 * ECE 16 libraries for arduino and python
 
 * 28 image classification dataset from Kaggle
