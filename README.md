@@ -30,14 +30,20 @@ brief bio
 
 ![logo](/images/blank.jpg)
 
-brief bio
+Aidan is a Senior Eletrical Engineering major with a Power Engineering depth, with experience in both industrial level power engineering at IEM Power Systems and small scale robotics electronics with Yonder Deep Robotics on campus
 
 
 ## Video Demo 
 [![Presentation Video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## Slide Deck
-(embed slide deck)
+[Google Slideshow](https://docs.google.com/presentation/d/1VO9xiTrAwZHm3HV66OTTplPPoqh0uB_zesGNIXyZNLo/edit)
 
 ## Bibliography
-sources:
+* ECE 16 libraries for arduino and python
+
+* 28 image classification dataset from Kaggle
+
+* Pre Trained EfficientNet for testing
+
+* EfficientNet for training and implementation
