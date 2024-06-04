@@ -11,7 +11,7 @@ A live closed captioning system for ASL, utilizing machine learning and displays
 (insert favorite photos collage)
 
 ![logo](/images/schematic1.png) 
-![logo](/images/schematic2.png)
+![logo](/images/collage.png)
 
 
 # The Team
@@ -32,7 +32,7 @@ Garno is an Eletrical Engineering Senior with a Circuit Engineering depth, witho
 
 ![logo](/images/blank.jpg)
 
-Aidan is an Eletrical Engineering Senior in the Power Engineering depth, with experience in both industrial level power engineering and small scale robotics electronics with Yonder Deep Robotics on campus.
+Aidan is an Eletrical Engineering Senior in the Power Engineering depth, with experience in both industrial level power engineering and small scale robotics.
 
 
 # Video Demo 
