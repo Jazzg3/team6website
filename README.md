@@ -16,21 +16,17 @@ A live closed captioning system for ASL, utilizing machine learning and displays
 
 # The Team
 
-### Bao Thy Nguyen
-
 ![logo](/images/blank.jpg)
+
+### Bao Thy Nguyen
 
 Bao Thy is a Computer Engineering Senior without experience in both industrial level power engineering at IEM Power Systems and small scale robotics electronics with Yonder Deep Robotics on campus
 
 ### Garno Amirian
 
-![logo](/images/blank.jpg)
-
 Garno is an Eletrical Engineering Senior with a Circuit Engineering depth, without experience in both industrial level power engineering at IEM Power Systems and small scale robotics electronics with Yonder Deep Robotics on campus
 
 ### Aidan Garamendi
-
-![logo](/images/blank.jpg)
 
 Aidan is an Eletrical Engineering Senior in the Power Engineering depth, with experience in both industrial level power engineering and small scale robotics.
 
