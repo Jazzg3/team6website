@@ -2,9 +2,11 @@
 ### Team members: Bao Thy Nguyen, Garno Amirian, Aidan Garamendi 
 # Project Description
 
-The problem we’ve chosen is the lack of effective communication methods for deaf/mute individuals to easily interact with those who are unfamiliar with sign language without the aid of an interpreter, which creates distance between these communities.
+### The Problem:
+People who are dealing with hearing loss or unable to speak face challenges in communicating with those unfamiliar with sign language without an interpreter. 
 
-Our proposed solution is to create a video input device that will detect movements and use a machine learning algorithm to assign those to classes that represent words or letters in the american sign language alphabet. This would then be wirelessly transmitted and displayed on a wearable device to allow others to understand what the individual is signing.
+### The Solution:
+A live closed captioning system for ASL, utilizing machine learning and displays the translation onto an OLED display attached to the person signing.
 
 (insert favorite photos collage)
 
@@ -30,14 +32,14 @@ Garno is an Eletrical Engineering Senior with a Circuit Engineering depth, witho
 
 ![logo](/images/blank.jpg)
 
-Aidan is an Eletrical Engineering Senior with a Power Engineering depth, with experience in both industrial level power engineering at IEM Power Systems and small scale robotics electronics with Yonder Deep Robotics on campus
+Aidan is an Eletrical Engineering Senior in the Power Engineering depth, with experience in both industrial level power engineering and small scale robotics electronics with Yonder Deep Robotics on campus.
 
 
 # Video Demo 
-[![Presentation Video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Presentation Video ](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-# Slide Deck
-[Google Slideshow](https://docs.google.com/presentation/d/1VO9xiTrAwZHm3HV66OTTplPPoqh0uB_zesGNIXyZNLo/edit)
+# Final Presentation Slide Deck
+[![slide deck ](/images/slidedeck.png)](https://docs.google.com/presentation/d/1VO9xiTrAwZHm3HV66OTTplPPoqh0uB_zesGNIXyZNLo/edit#slide=id.g2ce5c1ef43d_0_275)
 
 # Bibliography
 * ECE 16 libraries for arduino and python
