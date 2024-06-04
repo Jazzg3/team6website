@@ -8,15 +8,13 @@ People who are dealing with hearing loss or unable to speak face challenges in c
 ### The Solution:
 A live closed captioning system for ASL, utilizing machine learning and displays the translation onto an OLED display attached to the person signing.
 
-(insert favorite photos collage)
-
-![logo](/images/schematic1.png) 
 ![logo](/images/collage.png)
+![logo](/images/schematic.png) 
 
 
 # The Team
 
-![logo](/images/blank.jpg)
+![logo](/images/profilepic.png)
 
 ### Bao Thy Nguyen
 
