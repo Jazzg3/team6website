@@ -13,16 +13,15 @@ A live closed captioning system for ASL, utilizing machine learning and displays
 
 
 # The Team
-
 ![logo](/images/profilepic.png)
 
 ### Bao Thy Nguyen
 
-Bao Thy is a Computer Engineering Senior without experience in both industrial level power engineering at IEM Power Systems and small scale robotics electronics with Yonder Deep Robotics on campus
+Bao Thy is a Computer Engineering Senior with an interest in embedded system and parallel computing. In their free time, they enjoy building LEGO models.
 
 ### Garno Amirian
 
-Garno is an Eletrical Engineering Senior with a Circuit Engineering depth, without experience in both industrial level power engineering at IEM Power Systems and small scale robotics electronics with Yonder Deep Robotics on campus
+Garno Amirian is an Electrical Engineering major with a specialization in Circuits and Systems with experience in industry level avionics and robotics engineering.
 
 ### Aidan Garamendi
 
@@ -38,8 +37,8 @@ Aidan is an Eletrical Engineering Senior in the Power Engineering depth, with ex
 # Bibliography
 * ECE 16 libraries for arduino and python
 
-* 28 image classification dataset from Kaggle
+* 29 image classification dataset on Kaggle [Dataset Link](https://www.kaggle.com/datasets/grassknoted/asl-alphabet)
 
-* Pre Trained EfficientNet for testing
+* Pre Trained Model for testing [Github Link](https://github.com/lukemelas/EfficientNet-PyTorch/blob/2eb7a7d264344ddf15d0a06ee99b0dca524c6a07/examples/imagenet/main.py)
 
-* EfficientNet for training and implementation
+* VGG16 for Implementation [Github Link](https://github.com/Joeshmoe03/ASL-classification/tree/main)
