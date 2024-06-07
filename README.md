@@ -29,7 +29,7 @@ Aidan is an Eletrical Engineering Senior in the Power Engineering depth, with ex
 
 
 # Video Demo 
-[![video demo ](/images/video.png)](https://drive.google.com/file/d/1QyL8ZD2zjo6f42acHVT2Z_6TyKlgbc2o/view?usp=sharing)
+[![video demo ](/images/video.png)](https://drive.google.com/file/d/18h_6eo6kXhM06fTqLL6IUgX0E---MKsu/view?usp=sharing)
 
 # Final Presentation Slide Deck
 [![slide deck ](/images/slidedeck.png)](https://docs.google.com/presentation/d/1VO9xiTrAwZHm3HV66OTTplPPoqh0uB_zesGNIXyZNLo/edit#slide=id.g2ce5c1ef43d_0_275)
